@@ -1,0 +1,22 @@
+{
+  "name": "wendy-cli",
+  "version": "1.0.0",
+  "description": "前端自动化部署系统",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendy-poppy/wendy-cli.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "wendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendy-poppy/wendy-cli/issues"
+  },
+  "homepage": "https://github.com/wendy-poppy/wendy-cli#readme"
+}
