@@ -2,12 +2,14 @@
 前端自动化部署
 
 ## 技术栈
+```
 chalk 美化命令行，进行着色等
 commander 解析用户命令行输入
 inquirer 命令行交互功能，像用户提问等
 node-ssh ssh模块
 ora 命令行环境的loading效果
 shelljs 重新包装了 child_process 子进程模块，调用系统命令更方便
+```
 
 ## 查看效果
 ```
