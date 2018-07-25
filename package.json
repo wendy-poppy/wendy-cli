@@ -1,0 +1,33 @@
+{
+  "name": "wendy-cli",
+  "version": "0.0.1",
+  "description": "前端自动化部署系统",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wendy": "./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendy-poppy/wendy-cli.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "wendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendy-poppy/wendy-cli/issues"
+  },
+  "homepage": "https://github.com/wendy-poppy/wendy-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.16.0",
+    "inquirer": "^6.0.0",
+    "node-ssh": "^5.1.2",
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
